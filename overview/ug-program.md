@@ -1,14 +1,16 @@
 # Program Overview
 
-The Department of Mathematics and Statistics at Binghamton University offers courses and degree programs in **mathematics**, **statistics**, and **actuarial science**.
+The Department of Mathematics and Statistics at Binghamton University offers courses and degree programs in **mathematics**, **data science and statistics**, and **actuarial science**.
 
 Our main areas of concentration include:
 
 - Algebra  
 - Analysis  
+- Applied Mathematics
 - Combinatorics  
 - Geometry & Topology  
-- Statistics  
+- Probability & Statistics  
+
 
 ## Curriculum Options
 
@@ -26,10 +28,12 @@ For students interested in professional preparation, we also offer **actuarial s
 ## Majors
 
 - **BS in Mathematical Sciences**  
-- **BA in Mathematical Sciences**  
-- **BA in Mathematical Sciences: Actuarial Sciences**  
+- **BA in Mathematical Sciences** 
+- **BS in Data Science and Statistics**
+- **BA in Data Science and Statistics** 
 - **BS in Mathematical Sciences: Actuarial Sciences**  
-- **BA in Mathematical Sciences: Statistics**
+- **BA in Mathematical Sciences: Actuarial Sciences**  
+
 
 ## Minor
 
