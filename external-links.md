@@ -8,3 +8,11 @@
   last_checked: 2025-12-22
 ```
 
+```yaml
+- id: DEPT_WWW2_RESEARCH_AREAS
+  url: https://www2.math.binghamton.edu/p/research
+  scope: dept-external
+  why: Department research overview page; referenced from UG pages as “learn about faculty research areas.”
+  owner: Math UG Program
+  last_checked: 2025-12-22
+  ```

@@ -12,6 +12,7 @@ Our main areas of concentration include:
 - Analysis  
 - Applied Mathematics
 - Combinatorics  
+- Data Science
 - Geometry & Topology  
 - Probability & Statistics  
 
