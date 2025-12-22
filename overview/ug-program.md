@@ -48,8 +48,8 @@ For students interested in professional preparation, we also offer **actuarial s
 
 # Internships, Research Opportunities, and Student Life
 
-Students may have opportunities to engage in **research with faculty** whose interests span a wide range of topics.  
-- Research opportunities: *(add link)*
+Students may have opportunities to engage in **research with faculty** whose interests span a wide range of topics:  
+- [Math Faculty research areas](https://www2.math.binghamton.edu/p/research)
 
 Student organizations include:
 - Undergraduate Math Club: *(add link)*  
