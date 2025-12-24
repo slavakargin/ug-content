@@ -17,3 +17,28 @@
   owner: Math UG Program
   last_checked: 2025-12-22
   ```
+
+  ```yaml
+  - id: BU_MATH_CLUB_SITE
+  url: https://sites.google.com/binghamtonsa.org/binghamtonmathclub/
+  scope: university-external
+  why: Official(ish) Math Club page for students; linked from UG “Student life / clubs” section.
+  owner: Math UG Program
+  last_checked: 2025-12-24
+  ```
+  ```yaml
+  - id: BU_BENGAGED_AWM
+  url: https://bengaged.binghamton.edu/awm/home/
+  scope: university-external
+  why: Association for Women in Mathematics (Binghamton) student organization page; linked from UG “Student groups / community” section.
+  owner: Math UG Program
+  last_checked: 2025-12-24
+  ```
+  ```yaml
+  - id: DEPT_WWW2_ACTUARIAL_TRACK
+  url: https://www2.math.binghamton.edu/p/actuary/
+  scope: dept-external
+  why: Department DocuWiki page with actuarial track details; linked as a deeper reference from UG actuarial information.
+  owner: Math UG Program
+  last_checked: 2025-12-24
+  ```
