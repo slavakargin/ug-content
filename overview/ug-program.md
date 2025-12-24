@@ -97,13 +97,13 @@ Students specializing in **actuarial science** commonly find employment in:
 
 ## Learn more about careers
 
-- American Mathematical Society (AMS): *(add link)*  
-- American Statistical Association (ASA): *(add link)*  
-- Society of Actuaries (SOA): *(add link)*  
+- American Mathematical Society: [AMS](https://www.ams.org/learning-careers/students/math-work)
+- American Statistical Association [ASA](https://www.amstat.org/education/studentoutreach/what-do-statisticians-do-)  
+- Society of Actuaries [SOA] (https://www.soa.org/)  
 
 ---
 
 # Accelerated / 4+1 Degrees
 
 You may also be interested in our **accelerated / 4+1 programs**, which allow students to complete a bachelor’s degree and a master’s degree in **five years**.  
-*(Add link to the 4+1 page if you have one.)*
+[4+1 program](https://www.binghamton.edu/admissions/graduate/apply/accelerated-degree.html)
