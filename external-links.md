@@ -42,3 +42,11 @@
   owner: Math UG Program
   last_checked: 2025-12-24
   ```
+  ```yaml
+  - id: BU_HARPUR_MAJOR_MINOR_ADVISING_TEMPLATES
+  url: https://www.binghamton.edu/harpur/advising/how-do-i/academic-plan.html
+  scope: university-external
+  why: Harpur Advising page that hosts “4 Year Plan Templates,” including Mathematical Sciences (BA/BS); avoids linking directly to fragile Google Sheets URLs.
+  owner: Math UG Program
+  last_checked: 2025-12-24
+  ```

@@ -71,7 +71,7 @@ Student organizations include:
 - **MATH 323** — Calculus III  
 - **MATH 330** — Number Systems  
 
-*(Tip: if you want, you can add one line here that points students to advising / sample plans.)*
+Sample 4-year plans are maintained by Harpur Advising ([4-Year Plan Templates](https://www.binghamton.edu/harpur/advising/how-do-i/academic-plan.html))
 
 ---
 
