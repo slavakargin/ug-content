@@ -83,3 +83,11 @@
   owner: Math UG Program
   last_checked: 2025-12-24
   ```
+  ```yaml
+  - id: BU_ACADEMIC_GUIDE_MATH_BA
+  url: https://catalog.binghamton.edu/preview_program.php?catoid=5&poid=1025&returnto=209
+  scope: university-external
+  why: Official catalog page for the BA in Mathematical Sciences; authoritative requirements source used for all BA tracks (to avoid duplicating brittle requirement lists).
+  owner: Math UG Program
+  last_checked: 2025-12-24
+  ```

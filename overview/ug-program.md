@@ -105,5 +105,4 @@ Students specializing in **actuarial science** commonly find employment in:
 
 # Accelerated / 4+1 Degrees
 
-You may also be interested in our **accelerated / 4+1 programs**, which allow students to complete a bachelor’s degree and a master’s degree in **five years**.  
-[4+1 program](https://www.binghamton.edu/admissions/graduate/apply/accelerated-degree.html)
+You may also be interested in our **accelerated / 4+1 programs**, which allow students to complete a bachelor’s degree and a master’s degree in **five years**: [4+1 program](https://www.binghamton.edu/admissions/graduate/apply/accelerated-degree.html)
