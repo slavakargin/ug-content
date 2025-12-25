@@ -62,6 +62,11 @@ Last reviewed: 2025-12-22
   - named staff contacts (these change),
   - dates and deadlines (these change),
   - “how to petition” instructions (these change).
+  
+### Links policy
+- **BU links use tokens**: use `{{...}}` tokens for `binghamton.edu` destinations (and any prototype↔production links).
+- **Offsite links are direct**: use normal Markdown links for external organizations/resources (e.g., AMS/ASA/SOA).
+- BU link tokens are defined in the link registry and may require periodic updates (e.g., catalog-year URLs).
 
 ---
 

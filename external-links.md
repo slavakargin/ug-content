@@ -91,3 +91,20 @@
   owner: Math UG Program
   last_checked: 2025-12-24
   ```
+
+  ```yaml
+  - id: BU_ACADEMIC_GUIDE_MATH_BS
+  url: https://catalog.binghamton.edu/preview_program.php?catoid=5&poid=1026&returnto=209
+  scope: university-external
+  why: BU Academic Guide/Catalog entry for the BS in Mathematical Sciences (catalog-year specific; update annually). Canonical requirements link used for all BS tracks.
+  owner: Math UG Program
+  last_checked: 2025-12-24
+  ```
+  ```yaml
+  - id: DEPT_WWW2_ACTUARIAL_TRACK
+  url: https://www2.math.binghamton.edu/p/actuary/
+  scope: dept-external
+  why: Department DocuWiki page with actuarial track details; linked as a deeper reference from UG actuarial information.
+  owner: Math UG Program
+  last_checked: 2025-12-24
+  ```

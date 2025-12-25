@@ -21,8 +21,8 @@ To earn the BA degree in Mathematical Sciences (Mathematics track), a student mu
 For the authoritative requirements, see {{BU_ACADEMIC_GUIDE_MATH_BA}}.
 
 ## BS in Mathematical Sciences (Mathematics track)
-The BS in Mathematical Sciences is a more intensive program that provides excellent preparation for graduate study in mathematics and related disciplines. Because the requirements are demanding, students considering the BS should consult their academic advisors early and plan schedules carefully.
+The BS in Mathematical Sciences is a significantly more intensive program that provides excellent preparation for graduate study in mathematics and related disciplines. Because the requirements are demanding, students considering the BS should consult their academic advisors early and plan schedules carefully.
 
 To earn the BS degree in Mathematical Sciences (Mathematics track), a student must complete **at least 64 credits** of coursework.
 
-For the authoritative requirements, see [BU ACADEMIC GUIDE for MATH BA degrees] (https://catalog.binghamton.edu/preview_program.php?catoid=5&poid=1025&returnto=209).
+For the authoritative requirements, see {{BU_ACADEMIC_GUIDE_MATH_BS}}.
