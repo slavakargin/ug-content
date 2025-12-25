@@ -2,7 +2,7 @@
 
 DEPT_CURRENT_STUDENTS_HUB:
 - prototype: https://slavakargin.github.io/ug-dept-prototype/current-students/
-- production: https://www2.math.binghamton.edu/… (TBD)
+- production: https://www2.math.binghamton.edu/p/undergraduate/advising (TBD)
 
 UNIV_UG_LANDING:
 - prototype: https://slavakargin.github.io/ug-university-prototype/
