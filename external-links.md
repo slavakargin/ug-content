@@ -108,3 +108,30 @@
   owner: Math UG Program
   last_checked: 2025-12-24
   ```
+  
+  ```yaml
+  - id: BU_TLEL_EDUCATION_MINOR
+  url: https://www.binghamton.edu/tlel/academics/minor/
+  scope: university-external
+  why: Official School of Education (TLEL) page for the undergraduate Education minor; referenced from “Preparing to teach mathematics.”
+  owner: Math UG Program
+  last_checked: 2025-12-24
+  ```
+  
+  ```yaml
+- id: BU_TLEL_MAT_ADOLESCENCE_EDUCATION
+  url: https://www.binghamton.edu/tlel/academics/masters-degrees/initial-preparation/adolescence-education/
+  scope: university-external
+  why: Official School of Education (TLEL) page describing MAT programs in Adolescence Education (includes Mathematics); referenced from “Preparing to teach mathematics.”
+  owner: Math UG Program
+  last_checked: 2025-12-24
+  ```
+  
+  ```yaml
+- id: BU_MATH_EDUCATION_PAGE
+  url: https://www.binghamton.edu/math/undergraduate/education.html
+  scope: university-external
+  why: BU Math Department “Math Education” page with recommended courses for future math teachers; referenced from teaching pathway section.
+  owner: Math UG Program
+  last_checked: 2025-12-24
+  ```
