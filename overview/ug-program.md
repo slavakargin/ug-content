@@ -53,7 +53,7 @@ Students may have opportunities to engage in **research with faculty** whose int
 
 Student organizations include:
 - [Undergraduate Math Club](https://sites.google.com/binghamtonsa.org/binghamtonmathclub/)  
-- [Binghamton Association for Women in Mathematics (BingAWM)] (https://bengaged.binghamton.edu/awm/home/) 
+- [Binghamton Association for Women in Mathematics (BingAWM)](https://bengaged.binghamton.edu/awm/home/) 
 - [Undergraduate Actuarial Association](https://www2.math.binghamton.edu/p/actuary/)
 
 ---
