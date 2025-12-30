@@ -13,7 +13,7 @@ This track works especially well in combination with majors such as computer sci
 
 To earn the BA degree in Mathematical Sciences (Data Science & Statistics track), students must complete the required core and elective courses described in the University Bulletin and on the departmental planning sheets. The approximate number of credits is **52–56**.
 
-For the authoritative requirements, see {{BU_ACADEMIC_GUIDE_MATH_BA}}.
+For the authoritative requirements, see [Academic Guide - BA]({{BU_ACADEMIC_GUIDE_MATH_BA}}).
 
 ## BS in Mathematical Sciences (Data Science & Statistics track)
 The BS track in Data Science & Statistics is a more intensive program aimed at students who want a deeper mathematical and computational background for graduate study or technically demanding careers in data science, statistics, or related fields.
@@ -24,4 +24,4 @@ Students considering the BS track are strongly encouraged to consult with their 
 
 To earn the BS degree in Mathematical Sciences (Data Science & Statistics track), students must complete all required core and elective coursework specified in the University Bulletin and departmental degree-planning materials. The approximate number of credits is **64–68**.
 
-For the authoritative requirements, see {{BU_ACADEMIC_GUIDE_MATH_BS}}.
+For the authoritative requirements, see [Academic Guide - BS]({{BU_ACADEMIC_GUIDE_MATH_BS}}).

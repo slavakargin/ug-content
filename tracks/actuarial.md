@@ -8,7 +8,7 @@ The Actuarial Science track is designed to prepare students for an actuarial car
 
 Because of their central role in decision making, actuaries are well compensated. Salaries offered to actuaries are substantial, and there is ample opportunity for advancement in the actuarial profession. Actuarial careers often lead to upper-management and executive positions.
 
-For more detailed information, refer to the department’s actuarial sciences page: [Actuarial Science (Math Department)](https://www2.math.binghamton.edu/p/actuary/).
+For more detailed information, refer to the department’s actuarial sciences page: [Actuarial Science (Math Department)]({{DEPT_WWW2_ACTUARIAL_TRACK}}).
 
 Professional advancement typically results from passing a series of examinations administered by actuarial societies and from completing specific courses approved by these societies.
 
