@@ -52,14 +52,17 @@ Students may have opportunities to engage in **research with faculty** whose int
 - [Math Faculty research areas](https://www2.math.binghamton.edu/p/research)
 
 Student organizations include:
+
 - [Undergraduate Math Club](https://sites.google.com/binghamtonsa.org/binghamtonmathclub/)  
+
 - [Binghamton Association for Women in Mathematics (BingAWM)](https://bengaged.binghamton.edu/awm/home/) 
+
 - [Undergraduate Actuarial Association](https://www2.math.binghamton.edu/p/actuary/)
 
 ---
 
 # Coursework
-
+cd
 ## Courses to consider in your first year
 
 - **MATH 224** — Differential Calculus  
