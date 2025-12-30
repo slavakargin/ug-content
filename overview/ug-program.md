@@ -54,7 +54,7 @@ Students may have opportunities to engage in **research with faculty** whose int
 Student organizations include:
 - [Undergraduate Math Club] (https://sites.google.com/binghamtonsa.org/binghamtonmathclub/)  
 - [Binghamton Association for Women in Mathematics (BingAWM)] (https://bengaged.binghamton.edu/awm/home/) 
-- [Undergraduate Actuarial Association] ((https://www2.math.binghamton.edu/p/actuary/)
+- [Undergraduate Actuarial Association](https://www2.math.binghamton.edu/p/actuary/)
 
 ---
 
@@ -99,7 +99,7 @@ Students specializing in **actuarial science** commonly find employment in:
 
 - American Mathematical Society: [AMS](https://www.ams.org/learning-careers/students/math-work)
 - American Statistical Association [ASA](https://www.amstat.org/education/studentoutreach/what-do-statisticians-do-)  
-- Society of Actuaries [SOA] (https://www.soa.org/)  
+- Society of Actuaries [SOA](https://www.soa.org/)  
 
 ---
 
