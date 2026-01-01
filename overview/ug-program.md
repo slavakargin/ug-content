@@ -17,20 +17,17 @@ Our main areas of concentration include:
 - Probability & Statistics  
 
 
-## Curriculum Options
+## Curriculum Options/Degree Offered
 
 Students can choose between:
 
-- **A flexible curriculum** that lets you build a plan aligned with your interests and goals, and  
-- **A more intensive theoretical curriculum** designed especially for students considering **graduate study** in mathematics or statistics.
+- **BA degree: A flexible curriculum** that lets you build a plan aligned with your interests and goals, and  
+- **BS degree: A more intensive theoretical curriculum** designed especially for students considering **graduate study** in mathematics or statistics.
 
 For students interested in professional preparation, we also offer **actuarial science tracks** that provide a strong foundation for actuarial careers.
 
----
 
-# Degrees Offered
-
-## Majors
+### Major Tracks
 
 - **BS in Mathematical Sciences**  
 - **BA in Mathematical Sciences** 
@@ -40,13 +37,12 @@ For students interested in professional preparation, we also offer **actuarial s
 - **BA in Mathematical Sciences: Actuarial Sciences**  
 
 
-## Minor
+### Minor
 
 - **Mathematical Sciences**
 
----
 
-# Internships, Research Opportunities, and Student Life
+### Research Opportunities and Student Life
 
 Students may have opportunities to engage in **research with faculty** whose interests span a wide range of topics:  
 - [Math Faculty research areas](https://www2.math.binghamton.edu/p/research)
@@ -59,11 +55,10 @@ Student organizations include:
 
 - [Undergraduate Actuarial Association](https://www2.math.binghamton.edu/p/actuary/)
 
----
 
-# Coursework
-cd
-## Courses to consider in your first year
+## Coursework and Sample 4-year Plans 
+
+### Courses to consider in your first year
 
 - **MATH 224** — Differential Calculus  
 - **MATH 225** — Integral Calculus  
@@ -74,11 +69,10 @@ cd
 - **MATH 323** — Calculus III  
 - **MATH 330** — Number Systems  
 
-Sample 4-year plans are maintained by Harpur Advising ([4-Year Plan Templates](https://www.binghamton.edu/harpur/advising/how-do-i/academic-plan.html))
+### Sample 4-year plans are maintained by Harpur Advising ([4-Year Plan Templates](https://www.binghamton.edu/harpur/advising/how-do-i/academic-plan.html))
 
----
 
-# After You Graduate
+## After You Graduate
 
 Mathematical Sciences majors develop strong **mathematical reasoning** and **analytical skills** that support a wide range of careers. Graduates pursue paths in areas such as:
 
@@ -98,14 +92,13 @@ Students specializing in **actuarial science** commonly find employment in:
 - Large corporations
 - Public accounting firms
 
-## Learn more about careers
+### Learn more about careers
 
 - American Mathematical Society: [AMS](https://www.ams.org/learning-careers/students/math-work)
 - American Statistical Association [ASA](https://www.amstat.org/education/studentoutreach/what-do-statisticians-do-)  
 - Society of Actuaries [SOA](https://www.soa.org/)  
 
----
 
-# Accelerated / 4+1 Degrees
+## Accelerated / 4+1 Degrees
 
-You may also be interested in our **accelerated / 4+1 programs**, which allow students to complete a bachelor’s degree and a master’s degree in **five years**: [4+1 program](https://www.binghamton.edu/admissions/graduate/apply/accelerated-degree.html)
+You may also be interested in our **accelerated / 4+1 programs**, which allow students to complete a bachelor’s degree and a master’s degree in data science and statistics (DSS) in **five years**: [4+1 program](https://www.binghamton.edu/admissions/graduate/apply/accelerated-degree.html)
