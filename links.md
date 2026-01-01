@@ -16,11 +16,11 @@
   last_checked: 2025-12-24
 
 - id: DEPT_CURRENT_STUDENTS_HUB
-  url: https://www2.math.binghamton.edu/p/undergraduate/advising
+  url: https://slavakargin.io.com/ug-dept-prototype/
   scope: ug-internal
   why: Department-maintained “Current students” advising hub (forms, advising logistics, degree planning); linked from university UG pages so dynamic info stays off the university site.
   owner: Math UG Program
-  last_checked: 2025-12-24
+  last_checked: 2026-01-01
 
 - id: BU_MATH_CLUB_SITE
   url: https://sites.google.com/binghamtonsa.org/binghamtonmathclub/
