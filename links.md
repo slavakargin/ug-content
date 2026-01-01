@@ -16,7 +16,7 @@
   last_checked: 2025-12-24
 
 - id: DEPT_CURRENT_STUDENTS_HUB
-  url: https://slavakargin.io.com/ug-dept-prototype/
+  url: https://slavakargin.github.io/ug-dept-prototype/
   scope: ug-internal
   why: Department-maintained “Current students” advising hub (forms, advising logistics, degree planning); linked from university UG pages so dynamic info stays off the university site.
   owner: Math UG Program

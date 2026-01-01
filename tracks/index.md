@@ -3,6 +3,7 @@
 The Mathematical Sciences major offers several **tracks**. A track is a coherent pathway through the major designed around a particular set of goals (breadth in mathematics, actuarial preparation, or statistics/data science).  
 
 **Authoritative degree requirements** live in the University Academic Guide (Catalog):
+
 - [Academic Guide — BA]({{BU_ACADEMIC_GUIDE_MATH_BA}})
 - [Academic Guide — BS]({{BU_ACADEMIC_GUIDE_MATH_BS}})
 
