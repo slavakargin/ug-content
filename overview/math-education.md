@@ -6,7 +6,7 @@ Last reviewed: 2026-01-03
 
 For students interested in becoming math teachers, Binghamton offers:
 
-- **BA/BS degrees in Mathematical Sciences.** Either the BA (Mathematics Track) or BS (Mathematics Track) is suitable preparation for a Masters in Teaching program. See the [Mathematics Track (BA/BS)](../tracks/pure-math/).
+- **BA/BS degrees in Mathematical Sciences.** Either the BA (Mathematics Track) or BS (Mathematics Track) is suitable preparation for a Masters in Teaching program. See the [Mathematics Track (BA/BS)](../../tracks/pure-math/).
 - An **undergraduate minor in Education**: [Education Minor]({{BU_TLEL_EDUCATION_MINOR}})
 - A **Master of Arts in Teaching (MAT)** in Mathematics Adolescent Education: [Adolescence Education Degree (MAT)]({{BU_TLEL_MAT_ADOLESCENCE_EDUCATION}})
 - An **accelerated (4+1) program** in BA in Mathematical Sciences and MAT in Mathematics Adolescent Education: [4+1/Accelerated programs]({{BU_TLEL_ACCELERATED_PROGRAMS}})
