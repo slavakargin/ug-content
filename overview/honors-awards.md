@@ -11,6 +11,7 @@ Every semester, the Department of Mathematics and Statistics grants some of our 
 To receive the distinction, a student must, at a minimum, have at least a **3.5 GPA in the major courses**.
 
 In addition, a student should either:
+
 - be in a **BS** program, **or**
 - if in a **BA** program, have a strong record of success in mathematics, statistics, or actuarial science (for example: above **3.9 GPA**, independent work in mathematics, substantially more math coursework than required by the BA program, substantially more actuarial exams passed than typical for the BA actuarial track, research activity in mathematics, etc.).
 
