@@ -92,6 +92,27 @@
   owner: Math UG Program
   last_checked: 2025-12-24
 
+- id: BU_MATH_CONTACT_INFO
+  url: https://www.binghamton.edu/math/contact/
+  scope: university-external
+  why: BU Math/Stats department contact page (includes Director of Undergraduate Studies contact); referenced from UG honors/self-nomination instructions.
+  owner: Math UG Program
+  last_checked: 2026-01-03
+
+- id: BU_PME_LOCAL_CHAPTER
+  url: https://people.math.binghamton.edu/alex/Pi_Mu_Epsilon_at_Binghamton_University.html
+  scope: ug-internal
+  why: Local Pi Mu Epsilon chapter page (induction details); linked from Honors/Awards page.
+  owner: Math UG Program
+  last_checked: 2026-01-03
+
+- id: BU_MATH_GIVE
+  url: https://www.binghamton.edu/math/give.html
+  scope: university-external
+  why: BU Math/Stats giving page; linked from Honors/Awards page donation note.
+  owner: Math UG Program
+  last_checked: 2026-01-03
+
 - id: UNIV_UG_LANDING
   url: https://slavakargin.github.io/ug-university-prototype/
   prototype: https://slavakargin.github.io/ug-university-prototype/
