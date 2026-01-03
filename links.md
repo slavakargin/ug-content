@@ -78,14 +78,14 @@
   owner: Math UG Program
   last_checked: 2025-12-24
 
-  - id: BU_TLEL_ACCELERATED_PROGRAMS
+- id: BU_TLEL_ACCELERATED_PROGRAMS
   url: https://www.binghamton.edu/tlel/academics/accelerated/
   scope: university-external
   why: Official TLEL page describing 4+1/accelerated pathways, including BA in Mathematical Sciences + MAT Math Adolescent Education.
   owner: Math UG Program
   last_checked: 2026-01-03
 
-  - id: BU_MATH_EDUCATION_PAGE
+- id: BU_MATH_EDUCATION_PAGE
   url: https://www.binghamton.edu/math/undergraduate/education.html
   scope: university-external
   why: BU Math Department “Math Education” page with recommended courses for future math teachers; referenced from teaching pathway section.
