@@ -32,4 +32,10 @@ In addition to graduation honors, the department grants several awards each year
 - **Actuarial Science Award** — awarded to actuarial science students with academic excellence.
 - **Award for Putnam Competition and Problem Solving** — awarded to undergraduate majors in the Department of Mathematics and Statistics who participated in and received good results in the Putnam Mathematics Competition and/or the Problem of the Week problem-solving series.
 
+## Recent award recipients
+See the annually updated list here:
+
+- [Award recipients (by year)]({{DEPT_UG_AWARD_RECIPIENTS}})
+
+
 Many awards are made possible because of donations from our alumni and friends. Consider [making donations]({{BU_MATH_GIVE}}) to the Department of Mathematics and Statistics.
