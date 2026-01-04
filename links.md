@@ -22,6 +22,13 @@
   owner: Math UG Program
   last_checked: 2026-01-01
 
+- id: DEPT_UG_AWARD_RECIPIENTS
+  url: https://www2.math.binghamton.edu/p/ug/awards
+  scope: ug-internal
+  why: Department-maintained list of undergraduate award recipients by year (updated annually); linked from university Honors/Awards page.
+  owner: Math UG Program
+  last_checked: 2026-01-04
+
 - id: BU_MATH_CLUB_SITE
   url: https://sites.google.com/binghamtonsa.org/binghamtonmathclub/
   scope: university-external
