@@ -16,11 +16,12 @@
   last_checked: 2025-12-24
 
 - id: DEPT_CURRENT_STUDENTS_HUB
-  url: https://slavakargin.github.io/ug-dept-prototype/
+  url: https://www2.math.binghamton.edu/p/ug
+  prototype: https://slavakargin.github.io/ug-dept-prototype/
   scope: ug-internal
   why: Department-maintained “Current students” advising hub (forms, advising logistics, degree planning); linked from university UG pages so dynamic info stays off the university site.
   owner: Math UG Program
-  last_checked: 2026-01-01
+  last_checked: 2026-01-05
 
 - id: DEPT_UG_AWARD_RECIPIENTS
   url: https://www2.math.binghamton.edu/p/ug/awards
@@ -129,4 +130,25 @@
   url: https://slavakargin.github.io/ug-university-prototype/tracks/
   prototype: https://slavakargin.github.io/ug-university-prototype/tracks/
   production: null
+
+- id: UNIV_TRACK_MATH
+  url: /tracks/pure-math/
+  scope: univ-internal
+  why: University-site track page (Mathematics track BA/BS).
+  owner: Math UG Program
+  last_checked: 2026-01-04
+
+- id: UNIV_TRACK_DSS
+  url: /tracks/data-science/
+  scope: univ-internal
+  why: University-site track page (Data Science & Statistics track BA/BS).
+  owner: Math UG Program
+  last_checked: 2026-01-04
+
+- id: UNIV_TRACK_ACTUARIAL
+  url: /tracks/actuarial/
+  scope: univ-internal
+  why: University-site track page (Actuarial Science track BA/BS).
+  owner: Math UG Program
+  last_checked: 2026-01-04
   ```
