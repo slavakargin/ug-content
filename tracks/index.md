@@ -50,7 +50,7 @@ A few practical decision cues:
 - **You want strong statistics + computing** and plan to work with data → **Data Science & Statistics (BA/BS)**
 
 If you’re unsure, start with the shared foundation (calculus + linear algebra) and talk to advising early:
-- [Current students advising hub]({{DEPT_CURRENT_STUDENTS_HUB}})
+[Current students advising hub]({{DEPT_CURRENT_STUDENTS_HUB}})
 
 ---
 
@@ -61,4 +61,4 @@ If you’re unsure, start with the shared foundation (calculus + linear algebra)
    - [BA requirements]({{BU_ACADEMIC_GUIDE_MATH_BA}})
    - [BS requirements]({{BU_ACADEMIC_GUIDE_MATH_BS}})
 3. For semester planning, petitions, and logistics, use the current-students hub:
-   - [Advising and planning resources]({{DEPT_CURRENT_STUDENTS_HUB}})
+   [Advising and planning resources]({{DEPT_CURRENT_STUDENTS_HUB}})

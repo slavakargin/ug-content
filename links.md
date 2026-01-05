@@ -127,26 +127,26 @@
   production: https://www.binghamton.edu/math/undergraduate/   # TBD ok later
 
 - id: UNIV_TRACKS_INDEX
-  url: https://slavakargin.github.io/ug-university-prototype/tracks/
-  prototype: https://slavakargin.github.io/ug-university-prototype/tracks/
+  url: content/tracks/
+  prototype: content/tracks/
   production: null
 
 - id: UNIV_TRACK_MATH
-  url: /tracks/pure-math/
+  url: content/tracks/pure-math/
   scope: univ-internal
   why: University-site track page (Mathematics track BA/BS).
   owner: Math UG Program
   last_checked: 2026-01-04
 
 - id: UNIV_TRACK_DSS
-  url: /tracks/data-science/
+  url: content/tracks/data-science/
   scope: univ-internal
   why: University-site track page (Data Science & Statistics track BA/BS).
   owner: Math UG Program
   last_checked: 2026-01-04
 
 - id: UNIV_TRACK_ACTUARIAL
-  url: /tracks/actuarial/
+  url: content/tracks/actuarial/
   scope: univ-internal
   why: University-site track page (Actuarial Science track BA/BS).
   owner: Math UG Program
