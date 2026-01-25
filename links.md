@@ -207,4 +207,38 @@
   why: Official pre-approved transfer equivalency table.
   owner: Math UG Program
   last_checked: 2026-01-05
+- id: BU_FLEISHMAN_CENTER_HOME
+  url: https://careertools.binghamton.edu/
+  scope: university-external
+  why: Fleishman Center for Career and Professional Development (career advising, internships/jobs, recruiting).
+  owner: Math UG Program
+  last_checked: 2026-01-24
+
+- id: BU_ESURC_HOME
+  url: https://www.binghamton.edu/academics/scholarships-research/
+  scope: university-external
+  why: External Scholarships & Undergraduate Research Center (ESURC) entry point for undergraduate research and scholarship support.
+  owner: Math UG Program
+  last_checked: 2026-01-24
+
+- id: BLS_OOH_MATH_HOME
+  url: https://www.bls.gov/ooh/math/home.htm
+  scope: external
+  why: BLS Occupational Outlook Handbook overview for math occupations (outlook, pay, related roles).
+  owner: Math UG Program
+  last_checked: 2026-01-24
+
+- id: ASA_STATS_STUDENTS
+  url: https://www.amstat.org/education/statistics-students
+  scope: external
+  why: ASA resources for statistics/data science students (career resources, internships, programs, awards).
+  owner: Math UG Program
+  last_checked: 2026-01-24
+
+- id: SOA_HOME
+  url: https://www.soa.org/
+  scope: external
+  why: Society of Actuaries official site (actuarial career overview, exam pathway, student resources).
+  owner: Math UG Program
+  last_checked: 2026-01-24
 ```
