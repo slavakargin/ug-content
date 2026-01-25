@@ -37,7 +37,7 @@ Typical roles: actuarial analyst, risk analyst, insurance analytics, pensions/re
 
 See the track page:
 
-- [Actuarial Science track (BA/BS)](../tracks/actuarial/)
+- [Actuarial Science track (BA/BS)](../../tracks/actuarial/)
 
 Professional advancement typically involves actuarial exams; the main professional society is:
 
@@ -48,12 +48,12 @@ Typical directions: operations research, quantitative finance, modeling/simulati
 
 See the track page:
 
-- [Mathematics track (BA/BS)](../tracks/pure-math/)
+- [Mathematics track (BA/BS)](../../tracks/pure-math/)
 
 ### Teaching pathway
 If you are considering teaching mathematics, start with:
 
-- [Math Education (Teaching)](../overview/math-education/)
+- [Math Education (Teaching)](../math-education/)
 
 ---
 
