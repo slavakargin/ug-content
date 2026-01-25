@@ -30,7 +30,7 @@ Typical roles: data analyst, statistical analyst, entry-level data scientist, BI
 
 A strong pathway is the **Data Science & Statistics track**:
 
-- [Data Science & Statistics track (BA/BS)](../tracks/data-science/)
+- [Data Science & Statistics track (BA/BS)](../../tracks/data-science/)
 
 ### Actuarial science and risk
 Typical roles: actuarial analyst, risk analyst, insurance analytics, pensions/retirement, healthcare analytics.

@@ -215,7 +215,7 @@
   last_checked: 2026-01-24
 
 - id: BU_ESURC_HOME
-  url: https://www.binghamton.edu/academics/scholarships-research/
+  url: https://www.binghamton.edu/student-research-and-scholarship/
   scope: university-external
   why: External Scholarships & Undergraduate Research Center (ESURC) entry point for undergraduate research and scholarship support.
   owner: Math UG Program
