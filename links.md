@@ -179,4 +179,32 @@
   why: Department guidance on non-U.S. summer/winter transfer credit.
   owner: Math UG Program
   last_checked: 2026-01-05
+
+- id: BU_HARPUR_AP_EQUIVALENCIES
+  url: https://www.binghamton.edu/harpur/advising/transfer-credit/ap-equivalencies/index.html
+  scope: university-external
+  why: Official AP equivalencies (Harpur).
+  owner: Math UG Program
+  last_checked: 2026-01-05
+
+- id: BU_HARPUR_IB_CREDIT
+  url: https://www.binghamton.edu/harpur/advising/transfer-credit/international-baccalaureate.html
+  scope: university-external
+  why: Official IB credit guidance (Harpur).
+  owner: Math UG Program
+  last_checked: 2026-01-05
+
+- id: BU_HARPUR_CLEP_CREDIT
+  url: https://www.binghamton.edu/harpur/advising/transfer-credit/clep.html
+  scope: university-external
+  why: Official CLEP credit guidance (Harpur).
+  owner: Math UG Program
+  last_checked: 2026-01-05
+
+- id: BU_PREAPPROVED_TRANSFER_TABLE
+  url: https://www.binghamton.edu/admissions/undergraduate/apply/transfer/coursework.html
+  scope: university-external
+  why: Official pre-approved transfer equivalency table.
+  owner: Math UG Program
+  last_checked: 2026-01-05
 ```
