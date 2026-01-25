@@ -151,4 +151,32 @@
   why: University-site track page (Actuarial Science track BA/BS).
   owner: Math UG Program
   last_checked: 2026-01-04
-  ```
+
+- id: BU_PREAPPROVED_TRANSFER_TABLE
+  url: https://www.binghamton.edu/admissions/undergraduate/apply/transfer/coursework.html
+  scope: university-external
+  why: Official table of pre-approved transfer equivalencies.
+  owner: Math UG Program
+  last_checked: 2026-01-05
+
+- id: BU_HARPUR_TRANSFER_CREDIT_POLICIES
+  url: https://www.binghamton.edu/harpur/advising/transfer-credit/policies.html
+  scope: university-external
+  why: Harpur’s authoritative transfer credit policies.
+  owner: Math UG Program
+  last_checked: 2026-01-05
+
+- id: DEPT_TRANSFER_CREDIT_GUIDANCE
+  url: https://www2.math.binghamton.edu/p/ug   
+  scope: ug-internal
+  why: Department instructions for Math/Stats transfer approvals (what to send, when needed).
+  owner: Math UG Program
+  last_checked: 2026-01-05
+
+- id: DEPT_SUMMER_TRANSFER_POLICY
+  url: https://www2.math.binghamton.edu/dokuwiki/ug:summer-transfer  
+  scope: ug-internal
+  why: Department guidance on non-U.S. summer/winter transfer credit.
+  owner: Math UG Program
+  last_checked: 2026-01-05
+```
