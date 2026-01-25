@@ -1,6 +1,7 @@
 # Transfer credit and exam credit (AP / IB / CLEP)
 
 There are two common ways to earn credit without taking the BU course:
+
 1) credit by **exam** (AP/IB/CLEP), and  
 2) **transfer credit** from another institution.
 
