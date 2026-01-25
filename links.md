@@ -167,7 +167,7 @@
   last_checked: 2026-01-05
 
 - id: DEPT_TRANSFER_CREDIT_GUIDANCE
-  url: https://www2.math.binghamton.edu/p/ug   
+  url: https://www2.math.binghamton.edu/p/ug/transfer-basics 
   scope: ug-internal
   why: Department instructions for Math/Stats transfer approvals (what to send, when needed).
   owner: Math UG Program
