@@ -1,3 +1,7 @@
+Owner: Math UG Program  
+Canonical: university  
+Last reviewed: 2026-01-24  
+
 # Summer and Winter Sessions
 
 Summer and winter courses can be a great way to stay on track, explore electives, or catch up on prerequisites. The key question is **where** you take the course.
