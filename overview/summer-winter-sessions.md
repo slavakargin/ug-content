@@ -17,4 +17,4 @@ If you want to take a math/stats course at another institution and use it toward
 ## Study abroad and courses outside the U.S.
 Some non-U.S. coursework can transfer, but short-term summer/winter courses abroad are often restricted unless taken through approved programs.
 
-- Department guidance and rationale: [Courses outside the U.S.]({{BU_HARPUR_TRANSFER_CREDIT_POLICIES}})
+- Department guidance and rationale: [Courses outside the U.S.]({{DEPT_TRANSFER_CREDIT_GUIDANCE}})
