@@ -8,6 +8,7 @@ The official degree requirements for Mathematical Sciences are defined in the **
 
 ## If something looks inconsistent
 DegreeWorks is helpful, but not perfect. If you think a course is not counting correctly, contact advising and include:
+
 - your **B-number**
 - your major/track and expected graduation term
 - a brief description of what you expected to count (screenshots help)

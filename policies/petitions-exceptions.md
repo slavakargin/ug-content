@@ -1,6 +1,7 @@
 # Petitions and exceptions
 
 Some requests require a formal review. Common examples include:
+
 - prerequisite exceptions
 - course substitutions
 - transfer course approvals (when not pre-approved)
@@ -8,6 +9,7 @@ Some requests require a formal review. Common examples include:
 
 ## Before you submit
 Prepare:
+
 - your **B-number**
 - the course(s) in question and the term
 - a brief explanation of what you are requesting and why
@@ -15,6 +17,7 @@ Prepare:
 
 ## Where to submit / what forms to use
 The department maintains the current instructions and links to the correct forms here:
+
 - [Current Students Hub (forms, petitions, advising)]({{DEPT_CURRENT_STUDENTS_HUB}})
 
 ## Typical turnaround
