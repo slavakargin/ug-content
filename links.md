@@ -241,4 +241,19 @@
   why: Society of Actuaries official site (actuarial career overview, exam pathway, student resources).
   owner: Math UG Program
   last_checked: 2026-01-24
+
+  - id: BU_MATH_4PLUS1_GRAD_PAGE
+  url: https://www.binghamton.edu/math/graduate/4-plus-1.html
+  scope: university-external
+  why: Current Math/Stats department page describing the 4+1 accelerated programs; intended to be migrated into the UG university pages.
+  owner: Math UG Program
+  last_checked: 2026-02-02
+
+- id: BU_4PLUS1_OVERVIEW
+  url: https://www.binghamton.edu/harpur/degrees/4-plus-1.html
+  scope: university-external
+  why: University overview page for combined degree (4+1) programs.
+  owner: Math UG Program
+  last_checked: 2026-02-02
+  
 ```
