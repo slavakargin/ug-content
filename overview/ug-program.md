@@ -33,8 +33,8 @@ For students interested in professional preparation, we also offer **actuarial s
 - **BA Track in Mathematics** 
 - **BS Track in Data Science and Statistics**
 - **BA Track in Data Science and Statistics** 
-- **BS Track in Mathematical Sciences: Actuarial Science**  
-- **BA Track in Mathematical Sciences: Actuarial Science**  
+- **BS Track in Actuarial Science**  
+- **BA Track in Actuarial Science**  
 
 
 ### Minor
