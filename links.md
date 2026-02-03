@@ -242,7 +242,7 @@
   owner: Math UG Program
   last_checked: 2026-01-24
 
-  - id: BU_MATH_4PLUS1_GRAD_PAGE
+- id: BU_MATH_4PLUS1_GRAD_PAGE
   url: https://www.binghamton.edu/math/graduate/4-plus-1.html
   scope: university-external
   why: Current Math/Stats department page describing the 4+1 accelerated programs; intended to be migrated into the UG university pages.
@@ -255,5 +255,5 @@
   why: University overview page for combined degree (4+1) programs.
   owner: Math UG Program
   last_checked: 2026-02-02
-  
+
 ```
