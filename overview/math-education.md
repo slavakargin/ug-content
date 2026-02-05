@@ -40,6 +40,8 @@ The table below shows one possible way to distribute the recommended **mathemati
 | Year | Fall | Spring |
 |---:|---|---|
 | 1 | Calculus I | Calculus II |
-| 2 | Calculus III; Number Systems | Linear Algebra |
-| 3 | Probability; Upper-level analysis course | Statistics; Upper-level mathematics elective (e.g., combinatorics or graph theory) |
+| 2 | Calculus III; Linear Algebra | Number Systems |
+| 3 | Probability; Upper-level analysis course | Statistics |
 | 4 | Upper-level algebra course | Upper-level geometry or topology course |
+
+*Optional (if you have room for an additional upper-level elective): consider Combinatorics or Graph Theory for extra breadth.*
