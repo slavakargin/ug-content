@@ -31,7 +31,8 @@ Students are strongly advised to take the calculus sequence as early as possible
 
 | Year | Fall | Spring |
 |---:|---|---|
-| 1 | Calculus 1 (MATH 224 and 225) | Calculus 2 (MATH 226 and 227) |
-| 2 | Calculus 3 (MATH 323), MATH 330 | Linear Algebra (MATH 304) |
-| 3 | Probability (MATH 447), Algebra course | Statistics (MATH 448), Analysis course |
-| 4 | Geometry course or Combinatorics (MATH 386) | Geometry course or Graph Theory (MATH 381) |
+| 1 | Calculus I | Calculus II |
+| 2 | Calculus III; Number Systems | Linear Algebra |
+| 3 | Probability; Upper-level algebra course | Statistics; Upper-level analysis course |
+| 4 | Upper-level geometry or topology course *or* Combinatorics | Upper-level geometry or topology course *or* Graph Theory |
+

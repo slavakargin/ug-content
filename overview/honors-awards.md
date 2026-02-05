@@ -31,7 +31,7 @@ In addition to graduation honors, the department grants several awards each year
 - **Miguel Arcones Memorial Award** — established in 2013 to honor the memory of Professor Miguel Arcones. Awarded to a graduating senior who has demonstrated academic excellence. Preference is given to a student in the actuarial program.
 - **Actuarial Science Award** — awarded to actuarial science students with academic excellence.
 - **Award for Putnam Competition and Problem Solving** — awarded to undergraduate majors in the Department of Mathematics and Statistics who participated in and received good results in the Putnam Mathematics Competition and/or the Problem of the Week problem-solving series.
-- **Early Achievement Award** – Awarded to a freshman, sophomore, or junior mathematics major who has demonstrated exceptional academic excellence, engagement in mathematical research, or other significant contributions to the mathematical community. Graduating seniors are not eligible.
+- **Early Achievement Award** – Awarded to a freshman or sophomore who has demonstrated exceptional early achievement in mathematics, such as academic excellence, research activity, or significant contributions to the mathematical community. Applicants need not have declared a mathematics major.
 
 ## Recent award recipients
 See the annually updated list here:
@@ -40,3 +40,4 @@ See the annually updated list here:
 
 
 Many awards are made possible because of donations from our alumni and friends. Consider [making donations]({{BU_MATH_GIVE}}) to the Department of Mathematics and Statistics.
+a
