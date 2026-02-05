@@ -18,7 +18,10 @@ Most future math teachers choose to do the BA in mathematics.
 ## Recommended courses for future math teachers
 
 The mathematics major does not include a formal education track. In collaboration with the Department of Teaching, Learning, and Educational Leadership (TLEL), the Department of Mathematics & Statistics offers the following course recommendations for students interested in teaching mathematics.
-The requirements for the BA in Mathematics include **one course in algebra**, **one course in analysis**, and **one course in geometry**, along with **two additional upper-level mathematics courses** beyond the core requirements (five upper-level courses total). Students interested in teaching mathematics are encouraged to use these two additional courses to develop a **broad mathematical background**, including work in **statistics** and **combinatorics**. **Proof-based courses** emphasize clear mathematical reasoning and communication—skills that are particularly important for future teachers.
+
+The requirements for the BA in Mathematics include **one course in algebra**, **one course in analysis**, and **one course in geometry**, along with **two additional upper-level mathematics courses** beyond the core requirements (five upper-level courses total). 
+
+Students interested in teaching mathematics are encouraged to use these two additional courses to develop a **broad mathematical background**, including work in **statistics** and **combinatorics**. **Proof-based courses** emphasize clear mathematical reasoning and communication—skills that are particularly important for future teachers.
 
 - For the **two additional upper-level courses**, we recommend **Probability and Statistics** (MATH 447 and 448).
 - For the **analysis course**, we recommend choosing from **Differential Equations**, **Dynamical Systems**, **Complex Analysis**, and (for students interested in a rigorous examination of calculus) **Real Analysis**.
@@ -26,7 +29,7 @@ The requirements for the BA in Mathematics include **one course in algebra**, **
 - For the **geometry course**, we recommend choosing from **Differential Geometry** and **Foundations of Geometry**.
 - For additional breadth, we recommend taking a combinatorics course such as **Combinatorics** or **Graph Theory**.
 
-Students are strongly advised to take the calculus sequence as early as possible, since these courses are prerequisites for many upper-level offerings, and to take **MATH 330** in the sophomore year, since it is a prerequisite for most proof-based courses. Beyond that, there are many good ways to fit these recommendations into four years; a sample schedule appears below.
+Students are strongly advised to take the calculus sequence as early as possible, since these courses are prerequisites for many upper-level offerings, and to take **Number Systems** in the sophomore year, since it is a prerequisite for most proof-based courses. Beyond that, there are many good ways to fit these recommendations into four years; a sample schedule appears below.
 
 
 | Year | Fall | Spring |
