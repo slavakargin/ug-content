@@ -23,13 +23,14 @@ The requirements for the BA in Mathematics include **one course in algebra**, **
 
 Students interested in teaching mathematics are encouraged to use these two additional courses to develop a **broad mathematical background**, including work in **statistics** and **combinatorics**. **Proof-based courses** emphasize clear mathematical reasoning and communication—skills that are particularly important for future teachers.
 
-- For the **two additional upper-level courses**, we recommend **Probability and Statistics** (MATH 447 and 448).
-- For the **analysis course**, we recommend choosing from **Differential Equations**, **Dynamical Systems**, **Complex Analysis**, and (for students interested in a rigorous examination of calculus) **Real Analysis**.
-- For the **algebra course**, we recommend choosing from **Modern Algebra I** and **Number Theory**.
-- For the **geometry course**, we recommend choosing from **Differential Geometry** and **Foundations of Geometry**.
+- For the **two additional upper-level courses**, we recommend **Probability** and **Statistics**.
+- For the **analysis course**, we recommend choosing from **Ordinary Differential Equations**, **Dynamical Systems**, **Functions of Complex Variables**, **Partial Differential Equations**, **PDE and Mathematical Analysis**, and (for students interested in a rigorous examination of calculus) **Real Analysis**.
+- For the **algebra course**, we recommend **Intro to the Theory of Numbers**. Students who want a more structural and abstract perspective may instead choose **Modern Algebra I**.
+- For the **geometry course**, we recommend choosing from **Topology I**, **Differential Geometry**, and **Foundations of Geometry**.
 - For additional breadth, we recommend taking a combinatorics course such as **Combinatorics** or **Graph Theory**.
 
 Students are strongly advised to take the calculus sequence as early as possible, since these courses are prerequisites for many upper-level offerings, and to take **Number Systems** in the sophomore year, since it is a prerequisite for most proof-based courses. Beyond that, there are many good ways to fit these recommendations into four years; a sample schedule appears below.
+
 
 
 | Year | Fall | Spring |
