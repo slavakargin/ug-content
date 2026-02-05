@@ -33,10 +33,13 @@ Students are strongly advised to take the calculus sequence as early as possible
 
 
 
+### Sample four-year mathematics schedule (illustrative)
+
+The table below shows one possible way to distribute the recommended **mathematics** courses across four years. It is meant as an illustrative math-course sequence only; other degree requirements (general education, electives, and teacher-preparation requirements) are not shown.
+
 | Year | Fall | Spring |
 |---:|---|---|
 | 1 | Calculus I | Calculus II |
 | 2 | Calculus III; Number Systems | Linear Algebra |
-| 3 | Probability; Upper-level algebra course | Statistics; Upper-level analysis course |
-| 4 | Upper-level geometry or topology course *or* Combinatorics | Upper-level geometry or topology course *or* Graph Theory |
-
+| 3 | Probability; Upper-level analysis course | Statistics; Upper-level mathematics elective (e.g., combinatorics or graph theory) |
+| 4 | Upper-level algebra course | Upper-level geometry or topology course |
